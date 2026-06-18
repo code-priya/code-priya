@@ -1,6 +1,5 @@
-# Hi 👋 This is [Your Name]
-
-Frontend Web developer • Diving deep into stuff • 3D Artist
+# Hi 👋 PRIYA HERE
+Just a developer who loves making cool things for the web.
 
 * 🌍 I'm based in India
 * 💻 See my portfolio at [yourportfolio.com](https://yourportfolio.com)

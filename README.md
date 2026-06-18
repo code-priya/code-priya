@@ -1,8 +1,8 @@
 # Hi 👋 PRIYA HERE
 Just a developer who loves making cool things for the web.
 
-* 🌍 I'm based in India
-* 💻 See my portfolio at [yourportfolio.com](https://yourportfolio.com)
+ 🌍 I'm based in India
+ connect me on https://linktr.ee/priyamvadasingh0202
 
 ## Skills
 

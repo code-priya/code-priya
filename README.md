@@ -3,6 +3,16 @@ Just a developer who loves making cool things for the web.
 
 connect me on https://linktr.ee/priyamvadasingh0202
 
+### 🧠 Core CS Concepts
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+- Data Structures & Algorithms (DSA)
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Deep Learning
 
 
 

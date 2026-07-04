@@ -6,7 +6,7 @@ connect me on https://linktr.ee/priyamvadasingh0202
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,ts,react,nextjs,redux,cpp,git,supabase,firebase,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js,react,nextjs,redux,nodejs,express,mongodb,flask,django,git,github,linux,mysql,supabase,firebase,tailwind,bootstrap)](https://skillicons.dev)
 <!--
 **code-priya/code-priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

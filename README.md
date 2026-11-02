@@ -1,5 +1,4 @@
 # Hi 👋 PRIYA HERE
-connect me on https://linktr.ee/priyamvadasingh0202
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js,react,nextjs,redux,nodejs,express,mongodb,flask,django,git,github,linux,mysql,supabase,firebase,tailwind,bootstrap)](https://skillicons.dev)
 <!--

@@ -1,20 +1,5 @@
 # Hi 👋 PRIYA HERE
-Just a developer who loves making cool things for the web.
-
 connect me on https://linktr.ee/priyamvadasingh0202
-
-### 🧠 Core CS Concepts
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
-- Data Structures & Algorithms (DSA)
-
-### 🤖 AI & Machine Learning
-- Machine Learning
-- Deep Learning
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js,react,nextjs,redux,nodejs,express,mongodb,flask,django,git,github,linux,mysql,supabase,firebase,tailwind,bootstrap)](https://skillicons.dev)
 <!--
